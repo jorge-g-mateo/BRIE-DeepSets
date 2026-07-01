@@ -4,6 +4,7 @@
 Jorge García-Mateo<sup>1</sup>, Jorge Paz-Ruza<sup>2</sup>, Carlos Eiras-Franco<sup>2</sup>
 
 <sup>1</sup> Facultade de Informática, Universidade da Coruña, A Coruña, Spain 
+
 <sup>2</sup> Universidade da Coruña, Grupo LIDIA - CITIC, A Coruña, Spain
 
 ---
