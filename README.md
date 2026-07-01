@@ -5,10 +5,6 @@ Jorge García-Mateo<sup>1</sup>, Jorge Paz-Ruza<sup>2</sup>, Carlos Eiras-Franco
 
 <sup>1</sup> Facultade de Informática, Universidade da Coruña, A Coruña, Spain <sup>2</sup> Universidade da Coruña, Grupo LIDIA - CITIC, A Coruña, Spain
 
-**Contact:**
-[jorge.garcia.mateo@udc.es](mailto:jorge.garcia.mateo@udc.es)
-[j.ruza@udc.es](mailto:j.ruza@udc.es), [carlos.eiras.franco@udc.es](mailto:carlos.eiras.franco@udc.es)
-
 ---
 
 ## 1. Overview
