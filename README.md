@@ -103,14 +103,14 @@ For parameter counting, the latent dimensions from the original models are prese
 
 BRIE obtains the best ranking results overall, but BRIE-DeepSets achieves competitive performance with a much smaller and constant number of trainable parameters.
 
-| City      | BRIE Params | BRIE MAUC | BRIE-DeepSets Params | BRIE-DeepSets MAUC | Parameter Reduction |
-| --------- | ----------: | --------: | -------------------: | -----------------: | ------------------: |
-| Gijón     |     427,264 |     0.643 |              209,472 |              0.635 |               51.0% |
-| Barcelona |   2,244,736 |     0.663 |              209,472 |              0.658 |               90.7% |
-| Madrid    |   2,940,288 |     0.673 |              209,472 |              0.668 |               92.9% |
-| New York  |   3,369,344 |     0.677 |              209,472 |              0.672 |               93.8% |
-| Paris     |   3,055,936 |     0.666 |              209,472 |              0.661 |               93.1% |
-| London    |   8,726,592 |     0.665 |              209,472 |              0.663 |               97.6% |
+| City | BRIE Params | BRIE MAUC | BRIE-DeepSets Params | BRIE-DeepSets MAUC | Parameter Reduction |
+|---|---:|---:|---:|---:|---:|
+| Gijón | 427,264 | 0.643 | 209,472 | 0.635 | **51.0%** |
+| Barcelona | 2,244,736 | 0.663 | 209,472 | 0.658 | **90.7%** |
+| Madrid | 2,940,288 | 0.673 | 209,472 | 0.668 | **92.9%** |
+| New York | 3,369,344 | 0.677 | 209,472 | 0.672 | **93.8%** |
+| Paris | 3,055,936 | 0.666 | 209,472 | 0.661 | **93.1%** |
+| London | 8,726,592 | 0.665 | 209,472 | 0.663 | **97.6%** |
 
 BRIE-DeepSets obtains the second-best ranking performance in all six datasets. The differences with respect to BRIE are small, especially in MAUC, while the parameter reduction is substantial.
 
